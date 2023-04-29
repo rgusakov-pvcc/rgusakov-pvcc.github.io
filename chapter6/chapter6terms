@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Programming Languages</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            text-align: left;
+            vertical-align: top;
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .term {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Chapter 6: Programming Languages</h1>
+    <table>
+        <tr>
+            <th>Term</th>
+            <th>Definition</th>
+        </tr>
+        <tr>
+            <td class="term">Machine language</td>
+            <td>The lowest-level programming language consisting of 0s and 1s that can be directly executed by a
+                computer's CPU.</td>
+        </tr>
+        <tr>
+            <td class="term">Debugging</td>
+            <td>The process of identifying and removing errors or bugs from a program.</td>
+        </tr>
+        <tr>
+            <td class="term">Assembler</td>
+            <td>A program that translates assembly language into machine language.</td>
+        </tr>
+        <tr>
+            <td class="term">Assembly language</td>
+            <td>A low-level programming language that uses mnemonics to represent machine-level instructions.</td>
+        </tr>
+        <tr>
+            <td class="term">Translator</td>
+            <td>A program that translates code from one programming language into another.</td>
+        </tr>
+        <tr>
+            <td class="term">Compiler</td>
+            <td>A program that translates high-level programming languages into machine language.</td>
+        </tr>
+        <tr>
+            <td class="term">Interpreter</td>
+            <td>A program that executes code directly, translating each line of code into machine language as it is
+                executed.</td>
+        </tr>
+        <tr>
+            <td class="term">Cross-platform software</td>
+            <td>Software that can run on multiple operating systems or hardware platforms without modification.</td>
+        </tr>
+        <tr>
+            <td class="term">Natural language</td>
+            <td>A human language, such as English or Chinese, that is used to communicate with other humans.</td>
+        </tr>
+        <tr>
+            <td class="term">Formal language</td>
+            <td>A language with a specific syntax and grammar used to communicate with machines, such as programming
+                languages.</td>
+        </tr>
+        <tr>
+            <td class="term">Machine independence</td>
+            <td>The ability of software to run on different types of computer hardware without modification.</td>
+        </tr>
+        <tr>
+            <td class="term">High-level programming language</td>
+            <td>A programming language that is easier to read and write than low-level programming languages and
+                requires less detailed knowledge of computer hardware.</td>
+        </tr>
+        <tr>
+            <td class="term">Object-oriented programming (OOP)</td>
+            <td>A programming paradigm that uses objects to represent and manipulate data.</td>
+        </tr>
+        <tr>
+            <td class="term">Scripting language</td>
+            <td>A programming language used to automate tasks, such as batch processing or system administration.</td>
+        <tr>
+            <td>Scripting language</td>
+            <td>A programming language that is used to write scripts to automate tasks, typically for web development,
+                system administration, and other tasks that require frequent automation.</td>
+        </tr>
+        <tr>
+            <td>Data types:</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td> class="term">Integer</td>
+            <td>A whole number that does not have a fractional part.</td>
+        </tr>
+        <tr>
+            <td>class="term">Float</td>
+            <td>A number with a decimal point or a number in scientific notation.</td>
+        </tr>
+        <tr>
+            <td>class="term">String</td>
+            <td>A sequence of characters, typically used to represent text.</td>
+        </tr>
+        <tr>
+            <td>class="term">Primitive data type</td>
+            <td>A data type that is built into the programming language and is not composed of smaller types.</td>
+        </tr>
+        <tr>
+            <td>class="term">Data structure</td>
+            <td>A way of organizing and storing data in a computer program, such as an array, linked list, or tree.</td>
+        </tr>
+        <tr>
+            <td>Python collection data structures</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>class="term">List</td>
+            <td>An ordered collection of items, which can be of any data type.</td>
+        </tr>
+        <tr>
+            <td>class="term">Tuple</td>
+            <td>An ordered collection of items, similar to a list, but is immutable (cannot be changed).</td>
+        </tr>
+        <tr>
+            <td>class="term">Set</td>
+            <td>An unordered collection of unique items, which can be of any data type.</td>
+        </tr>
+        <tr>
+            <td>class="term">Dictionary</td>
+            <td>An unordered collection of key-value pairs, where each key is unique and associated with a value.</td>
+        </tr>
+        <tr>
+            <td>class="term">Function</td>
+            <td>A block of code that performs a specific task and can be called multiple times from different parts of a
+                program.</td>
+        </tr>
+        <tr>
+            <td>class="term">Local variable</td>
+            <td>A variable that is declared inside a function and is only accessible within that function.</td>
+        </tr>
+        <tr>
+            <td>class="term">Global variable</td>
+            <td>A variable that is declared outside a function and can be accessed and modified from any part of a
+                program.</td>
+        </tr>
+        <tr>
+            <td>class="term">Source program</td>
+            <td>The program that is written by the programmer in a high-level language and needs to be translated to
+                machine language before it can be executed.</td>
+        </tr>
+        <tr>
+            <td>class="term">Object program</td>
+            <td>The machine language version of the source program that is created by the assembler, compiler, or
+                interpreter.</td>
+        </tr>
+    </table>
+</body>
+
+</html>
